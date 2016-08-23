@@ -1,8 +1,8 @@
 #Easy form generator (AngularJS)
 
-This is the custom version of easyFormGenerator, based on the original version v1.1.0
+##This is the custom version of easyFormGenerator, based on the original version v1.1.0
 
-My updates:
+###My updates:
 ###1. Combine the 0,1,2 steps into one step.
 ###2. Update: You could add at most 6 columns on one row.
 ###3. Update: Custom controls “IP Address”, “Numbers”, ”Section”, “Subsection”, “label” and “Page Break”.
