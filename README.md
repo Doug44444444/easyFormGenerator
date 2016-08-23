@@ -3,15 +3,15 @@
 This is the custom version of easyFormGenerator, based on the original version v1.1.0
 
 My updates:
-##1. Combine the 0,1,2 steps into one step.
-##2. Update: You could add at most 6 columns on one row.
-##3. Update: Custom controls “IP Address”, “Numbers”, ”Section”, “Subsection”, “label” and “Page Break”.
-##4. New function: Insert any line and Matrix below any line.
-##5. New function: Add page break to setup view and fix the performance issue if you have huge lines in one Form.
-##6. New function: Add a key field into any type controls so you could input your own key.
-##7. New function: Add “Default Value” field to any of the input type like “input”, “IP Address” etc.
-##8. New function: Add a AutoSave function, which could alert user to save this form ever 30 mins, and you could change this time period.
-##9. Other layout changes and bug fixes.
+###1. Combine the 0,1,2 steps into one step.
+###2. Update: You could add at most 6 columns on one row.
+###3. Update: Custom controls “IP Address”, “Numbers”, ”Section”, “Subsection”, “label” and “Page Break”.
+###4. New function: Insert any line and Matrix below any line.
+###5. New function: Add page break to setup view and fix the performance issue if you have huge lines in one Form.
+###6. New function: Add a key field into any type controls so you could input your own key.
+###7. New function: Add “Default Value” field to any of the input type like “input”, “IP Address” etc.
+###8. New function: Add a AutoSave function, which could alert user to save this form ever 30 mins, and you could change this time period.
+###9. Other layout changes and bug fixes.
 
 
 ####[— Original easy form generator website here —](http://mackentoch.github.io/easyFormGenerator/)
